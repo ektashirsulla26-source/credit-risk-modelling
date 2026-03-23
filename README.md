@@ -33,7 +33,7 @@ customer records from credit bureau data.
 3. Label Encoding (ordinal + one-hot)
 4. Class Imbalance Handling (SMOTE, SMOTEENN, Class Weights)
 5. Model Training (Random Forest, XGBoost, Decision Tree)
-6. Hyperparameter Tuning (Manual Grid Search, Optuna)
+6. Hyperparameter Tuning (Manual Grid Search)
 7. Model Explainability (SHAP values)
 8. Threshold Tuning (P3 recall optimization)
 9. Streamlit Web App Deployment
