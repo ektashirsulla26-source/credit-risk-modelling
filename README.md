@@ -4,7 +4,7 @@ An end-to-end machine learning project that predicts credit risk tiers
 (P1/P2/P3/P4) for loan applicants using XGBoost with full deployment.
 
 ## Live Demo
-[Click here to try the app](https://ektashirsulla26-source/credit-risk-modelling.streamlit.app)
+[Click here to try the app](https://credit-risk-modelling-app01.streamlit.app/)
 
 ## Project Overview
 This project builds a credit risk classification model trained on 42,064 
